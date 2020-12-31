@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 우아한테크코스 프리코스
-subtitle: 3주간의 여정
 tags: [우아한테크코스]
 ---
 
