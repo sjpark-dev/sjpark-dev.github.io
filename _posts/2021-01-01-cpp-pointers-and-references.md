@@ -44,7 +44,7 @@ int& b = a; // reference varable
 cout << b;  // 10
 ```
 
-References must be initialized when declared, and they are initialized with the name of other variables. THe '&' sign here is different from the ones used in pointers.
+References must be initialized when declared, and they are initialized with the name of other variables. The '&' sign here is different from the ones used in pointers.
 
 ```cpp
 void swap(int& a, int& b) {
