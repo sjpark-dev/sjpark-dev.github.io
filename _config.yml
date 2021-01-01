@@ -217,12 +217,14 @@ defaults:
       comments: false  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
       nav-short: true
+      full-width: true
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
       nav-short: true
+      full-width: true
 
 # Exclude these files from production site
 exclude:
