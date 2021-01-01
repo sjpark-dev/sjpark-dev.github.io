@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 우아한테크코스 프리코스
-thumbnail-img: /assets/img/techcourse_poster_3nd.png
+thumbnail-img: /assets/img/techcourse_poster_3nd.jpg
 tags: [우아한테크코스]
 ---
 
