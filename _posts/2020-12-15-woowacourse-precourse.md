@@ -7,9 +7,9 @@ tags: [우아한테크코스]
 
 안녕하세요 :D  
 저는 우아한테크코스 3기에서 웹 백엔드의 프리코스에 참가했습니다.
-이 글을 읽고 계신다면 우아한 테크코스의 프리코스가 어떻게 진행되는지 궁금하실테니 도움이 되고자 글을 작성하게 되었습니다.  
+이 글을 읽고 계신다면 우아한 테크코스의 프리코스가 어떻게 진행되는지 궁금하실테니 도움이 되고자 글을 작성하게 되었습니다.
 
-![techcourse-poster-3nd](/assets/img/techcourse_poster_3nd.jpg){: .mx-auto.d-block :}
+![techcourse-poster-3nd](/assets/img/techcourse_poster_3nd.jpg)
 
 ### 프리코스 진행 방식
 우선 프리코스는 온라인으로 3주간 진행이 됩니다. 각주마다 하나의 미션이 주어집니다.
