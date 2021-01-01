@@ -10,10 +10,10 @@ tags: [C/C++]
 int a = 10;
 int *b = &a;  // pointer variable
 cout << b;  // prints address
-cout << *b;  // prints value of the address
+cout << *b;  // 10
 ```
 
-To initialize a pointer varaible(or just pointer), you need an address. Here the '&' sign gets the address of variable a. Now, lets try using them in functions.
+To initialize a pointer variable(or just pointer), you need an address. Here the '&' sign gets the address of variable a. Now, lets try using them in functions.
 
 ```cpp
 void swap(int *a, int *b) {
@@ -36,11 +36,11 @@ Here, we're passing the addresses of variables to funtion swap(), which is the e
 
 ### How to use references in C++
 
-Reference varaibles(or just references) are concepts used in C++ and not in C. They are similar to pointers.
+Reference variables(or just references) are concepts used in C++ and not in C. They are similar to pointers.
 
 ```cpp
 int a = 10;
-int& b = a; // reference varable
+int& b = a; // reference variable
 cout << b;  // 10
 ```
 
