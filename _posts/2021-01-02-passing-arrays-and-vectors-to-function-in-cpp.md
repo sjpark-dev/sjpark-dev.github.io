@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C++에서 배열 또는 벡터를 함수에 넘기기
+title: C++에서 배열/벡터를 함수에 넘기기
 tags: [C/C++]
 ---
 
@@ -58,7 +58,7 @@ int main() {
 }
 ```
 
-Vector의 경우 parameter를 reference 변수로 만들면 된다. 실행 결과는 아래와 같다.
+vector의 경우 parameter를 reference 변수로 만들면 된다. 실행 결과는 아래와 같다.
 
 ```
 1 2 3 4 5 
