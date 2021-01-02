@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 배열 또는 벡터를 함수에 넘기기
+title: C++에서 배열 또는 벡터를 함수에 넘기기
 tags: [C/C++]
 ---
 
